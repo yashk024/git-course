@@ -1,2 +1,0 @@
-username = "yashk"
-user_email = "temp@temp.com"
